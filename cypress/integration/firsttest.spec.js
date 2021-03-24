@@ -6,5 +6,3 @@ context('Todos', function () {
         cy.contains('Hello')
     })
 })
-
-WebGLProgram 
